@@ -3,7 +3,7 @@ Blumpa Font
 
 Fonte para utilização no Blumpa.
 
-Ícones disponíveis na versão *0.2*:
+Classes disponíveis para icones na versão _0.2_:
 
 `.b-logotipo` Logotipo horizontal.
 
@@ -41,3 +41,10 @@ Gerando uma nova versão
 =======================
 
 Utilize os arquivos `.svg` localizados em `/svg-base` e utilize o serviço http://icomoon.io/.
+
+Changelog
+=========
+
+0.1: Fonte criada para versão em produção - 11/04
+
+0.2: Adicionado os ícones para mudança e pós-reforma
