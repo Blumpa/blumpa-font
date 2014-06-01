@@ -5,37 +5,37 @@ Fonte para utilização no Blumpa.
 
 Classes disponíveis para icones na versão _0.2_:
 
-`.b-logotipo` Logotipo horizontal.
+`.b-logotype` Logotipo horizontal.
 
-`.b-logotipo-alt` Logotipo na versão vertical (alternativa).
+`.b-logotype-alt` Logotipo na versão vertical (alternativa).
 
 `.b-logo` Logo sem a tipografia (apenas o elemento).
 
-`.b-armarios` Ícone Armário.
+`.b-cabinet` Ícone Armário.
 
-`.b-passar` Ícone Ferro de Passar.
+`.b-ironing` Ícone Ferro de Passar.
 
-`.b-janelas` Ícone Janela.
+`.b-windows` Ícone Janela.
 
-`.b-animais` Ícone Animal de Estimação (silhueta de um cão).
+`.b-pets` Ícone Animal de Estimação (silhueta de um cão).
 
-`.b-lavar` Ícone Máquina de Lavar.
+`.b-wash` Ícone Máquina de Lavar.
 
-`.b-roupas` Ícone Cabide de Roupas.
+`.b-clothes` Ícone Cabide de Roupas.
 
-`.b-forno` Ícone Forno.
+`.b-oven` Ícone Forno.
 
-`.b-geladeira` Ícone Geladeira.
+`.b-fridge` Ícone Geladeira.
 
-`.b-externa` Ícone Cerca (área externa).
+`.b-outdoor` Ícone Cerca (área externa).
 
-`.b-paredes` Ícone Paredes.
+`.b-wall` Ícone Paredes.
 
-`.b-mudancas` Ícone Caixa Selada (mudança).
+`.b-moving` Ícone Caixa Selada (mudança).
 
-`.b-mudar` Ícone Família Mudando-se.
+`.b-movingout` Ícone Família Mudando-se.
 
-`.b-posreformas` Ícone Pós-Reformas.
+`.b-postbuild` Ícone Pós-Reformas.
 
 Gerando uma nova versão
 =======================
@@ -48,3 +48,5 @@ Changelog
 0.1: Fonte criada para versão em produção - 11/04
 
 0.2: Adicionado os ícones para mudança e pós-reforma
+
+0.3: Nomes das classes alteradas para o inglês para uniformidade com a aplicação
